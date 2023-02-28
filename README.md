@@ -1,4 +1,4 @@
-Telegram [@itsthepicture](https://telegram.me/itsthepicture)
+Telegram [@itsthepicture](https://t.me/itsthepicture)
 
 [![thepicture's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepicture&theme=cobalt&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
